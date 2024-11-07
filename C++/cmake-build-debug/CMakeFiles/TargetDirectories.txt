@@ -1,0 +1,3 @@
+/Users/rezamosavi/Documents/AI_series_1/cmake-build-debug/CMakeFiles/AI_series_1.dir
+/Users/rezamosavi/Documents/AI_series_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rezamosavi/Documents/AI_series_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
